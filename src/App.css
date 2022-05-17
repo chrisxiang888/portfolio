@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+*::before,*::after{
+  box-sizing:border-box;
+}
+img,picture{
+  max-width:100%;
+}
+
+.nav-item{
+  color:black;
+}
+.nav-item a:hover {
+  padding-bottom: 12px;
+  color:red;
+  
+  cursor: pointer;
+  border-bottom: 3px solid yellow ;
+}
+.nav-item links{
+  text-decoration: none;
+}
