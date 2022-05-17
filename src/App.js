@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Main from './components/Main'
 import Section from './components/Section'
 import Work from './components/Work'
-
+import Contact from './components/Contact'
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
      <Main />
      <Section />
      <Work/>
+     <Contact />
      
     </div>
   );

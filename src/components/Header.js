@@ -43,8 +43,8 @@ const Header = () => {
                     </li>
                       
                     <li className='nav-item'>
-                        <a href="/Contact" style={{textDecoration: 'none',color:'black'}} className="links">Contacts
-                        </a>
+                    <Link to="contact" spy={true} smooth={true} offset={50} duration={500} onClick={closeMenu}>Contacts</Link>
+                        
                     </li>
                       
                 </ul>

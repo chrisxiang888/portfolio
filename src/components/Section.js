@@ -20,9 +20,11 @@ const Section = () => {
                     <p>8 years experience in IT industry</p>
                     <p>Responsive Web Design(HTML,CSS) Certificate</p>
                     <p>Javascript Developer</p>
-                    <p>React js Developer</p>
-                    <p>php Developer</p>
-                    <p>Version Control</p>
+                    <p>React,Redux,Boostrap,MUI core,npm</p>
+                    <p>PHP Developer</p>
+                    <p>Laravel</p>
+                    <p>SQL(MySQL)</p>
+                    <p>Version Control:Git,Unix</p>
                 </div>
 
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import ArrowBackIcon from '@mui/icons-material/ArrowBack';
+import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import Link from '@mui/material/Link';
 import emailjs from 'emailjs-com'
 import './styles/Contact.css'
@@ -25,7 +25,7 @@ const Contact = () => {
   return (
     <div className='contact' id='contact'>
             <Link href='/'>
-                <ArrowBackIcon className='arrow'/>
+                <ArrowUpwardIcon className='arrow'/>
             </Link>
             <div className="container border"
             style={{marginTop:"50px",width:'50%',backgroundImage:`url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?t=st=1652208798~exp=1652209398~hmac=51c0f5abd90378179487d85752ee2abdf467e9a925184f9f10524dadb711e18f&w=360')`,
@@ -42,7 +42,7 @@ const Contact = () => {
 
                     <textarea name='message'  row='4' className="form-control" />
                     <button type="submit">submit</button>
-                     {done && "Your message is sent successfully. I will contact you soon.Thank you"}
+                     {done && "Your message is sent successfully. I will contact you soon.Thank you!😀 " }
 
 
                 </form>
