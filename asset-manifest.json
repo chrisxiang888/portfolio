@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.12284da2.css",
+    "main.js": "/portfolio/static/js/main.832856fb.js",
+    "static/media/man2.jpg": "/portfolio/static/media/man2.7b507a1f32da94839539.jpg",
+    "static/media/shoppingcart.jpg": "/portfolio/static/media/shoppingcart.ec3add1b151908acaed0.jpg",
+    "static/media/ourmenu.jpg": "/portfolio/static/media/ourmenu.03c3332a7fba5e790865.jpg",
+    "static/media/airbnb2.jpg": "/portfolio/static/media/airbnb2.a66a6a67b5bb039ce46b.jpg",
+    "static/media/travel1.jpeg": "/portfolio/static/media/travel1.cc4454c6b4c7e8fa66b2.jpeg",
+    "static/media/businesscard1.jpg": "/portfolio/static/media/businesscard1.500ca5eaf39455ab1c01.jpg",
+    "static/media/randomquote.jpg": "/portfolio/static/media/randomquote.d1fcf63162e760966de2.jpg",
+    "static/media/man666.png": "/portfolio/static/media/man666.53ecd3d04da4e5035abf.png",
+    "static/media/pokemon.jpg": "/portfolio/static/media/pokemon.161ef5a3c0394e8d2747.jpg",
+    "static/media/weather.jpg": "/portfolio/static/media/weather.8c998ef0fe56b15d9e02.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.12284da2.css.map": "/portfolio/static/css/main.12284da2.css.map",
+    "main.832856fb.js.map": "/portfolio/static/js/main.832856fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12284da2.css",
+    "static/js/main.832856fb.js"
+  ]
+}
