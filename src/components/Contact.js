@@ -31,7 +31,7 @@ const Contact = () => {
             style={{marginTop:"50px",width:'50%',backgroundImage:`url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?t=st=1652208798~exp=1652209398~hmac=51c0f5abd90378179487d85752ee2abdf467e9a925184f9f10524dadb711e18f&w=360')`,
             backgroundPosition:'center',backgroundSize:"cover"}}>
                 <h1 style={{marginTop:'25px'}}>Contact Form</h1>
-                <p>Please keep in touch! You can see me message about the projects or jobs by Email.</p>
+                <p>Please keep in touch! You can send me message about the projects or jobs by Email.</p>
                 <form  ref={formRef} className="row" style={{margin:"25px 85px 75px 100px"}} onSubmit={sendEmail}>
                     <label>name</label>
                     <input type="text" name='name' className="form-control"/>
